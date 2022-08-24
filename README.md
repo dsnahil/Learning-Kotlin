@@ -24,6 +24,8 @@ MADPractical1_20012011162
 
 ![Screenshot 2022-08-23 10 58 53 PM](https://user-images.githubusercontent.com/92240128/186485776-ddfa2249-24f4-4df2-b6e9-2f0353343147.png)
 
+Exercises
+
 ![Screenshot 2022-08-23 11 10 45 PM](https://user-images.githubusercontent.com/92240128/186485889-98b1bd36-e5db-4ab2-913f-91e91620018e.png)
 ![Screenshot 2022-08-23 11 21 23 PM](https://user-images.githubusercontent.com/92240128/186485894-f22b8ea4-63d0-4089-a016-0a34de7f3af2.png)
 ![Screenshot 2022-08-23 11 30 54 PM](https://user-images.githubusercontent.com/92240128/186485896-4cbfcc3c-9098-4aa5-916e-e29ba7b82554.png)
