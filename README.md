@@ -1,5 +1,7 @@
 MADPractical1_20012011162
+
 Output:
+
 1.1
 
 ![Screenshot 2022-08-22 7 36 24 PM](https://user-images.githubusercontent.com/92240128/186484786-06df9eb3-97db-4d7a-b618-04aaf3d2778b.png)
@@ -44,8 +46,6 @@ Output:
 1.11
 
 ![Screenshot 2022-08-23 10 58 18 PM](https://user-images.githubusercontent.com/92240128/186485774-a71f3034-260e-4bbe-8615-8d8fdebcd369.png)
-
-1.12
 
 ![Screenshot 2022-08-23 10 58 53 PM](https://user-images.githubusercontent.com/92240128/186485776-ddfa2249-24f4-4df2-b6e9-2f0353343147.png)
 
