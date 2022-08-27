@@ -38,7 +38,6 @@ Output:
 
 ![Screenshot 2022-08-23 10 52 18 PM](https://user-images.githubusercontent.com/92240128/186485629-bdeaa736-d44f-4156-a221-051403d305c1.png)
 
-
 1.10
 
 ![Screenshot 2022-08-23 10 55 04 PM](https://user-images.githubusercontent.com/92240128/186485769-b4447b69-ba09-4714-a5fa-ce1b4ec47cab.png)
